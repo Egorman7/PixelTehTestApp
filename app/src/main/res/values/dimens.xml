@@ -1,3 +1,7 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="likes_size">16dp</dimen>
+    <dimen name="list_item_text_size">12sp</dimen>
+    <dimen name="list_item_margin">8dp</dimen>
 </resources>
